@@ -1,0 +1,17 @@
+accelerate 
+altair
+jupyter
+numpy 
+openai
+pandas 
+pyarrow
+python-dotenv
+pytorch 
+scikit-learn 
+scipy
+seaborn 
+sentence-transformers 
+transformers 
+umap-learn
+vegafusion
+vl-convert-python
