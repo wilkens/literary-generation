@@ -1,9 +1,13 @@
 # AI as a Tool for Simulation-Based Experiments in Literary Studies
 
 This repository contains code, data, and analytical pipelines supporting the article 
-["AI as a Tool for Simulation-Based Experiments in Literary Studies"](https://arxiv.org/a/wilkens_m_1.html).
+["AI as a Tool for Simulation-Based Experiments in Literary Studies"](https://doi.org/10.48550/arXiv.2606.02293).
 
 The project investigates the ability of GPT-5 and other LLMs to simulate human-authored literary texts across multiple genres, especially high-status (prize-nominated) books.
+
+## Browse the generated texts
+
+There's a [simple web-app reader](https://wilkens.github.io/sim-reader/) through which to browse the (complex-prompt) generated texts and metadata
 
 ---
 
